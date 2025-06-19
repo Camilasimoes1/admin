@@ -1,0 +1,1591 @@
+<!DOCTYPE html>
+<html>
+<head>
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="initial-scale=1, width=device-width">
+  	
+  	<link rel="stylesheet"  href="./index.css" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@200;400;500;600;700;800;900&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hind Vadodara:wght@400;700&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Josefin Sans:wght@400&display=swap" />
+  	
+  	
+  	
+</head>
+<body>
+  	
+  	<div class="home">
+    		<img class="plano-diretor-da-gestao-condom-icon" alt="" src="PLANO-DIRETOR-DA-GESTAO-CONDOMINIAL 1.png">
+    		
+    		<img class="shutterstock-372388117-1-icon" alt="" src="shutterstock_372388117 1.png">
+    		
+    		<img class="captura-de-tela-2024-06-19-222" alt="" src="Captura de tela 2024-06-19 222359 1.png">
+    		
+    		<b class="planos">PLANOS</b>
+    		<img class="home-child" alt="" src="Rectangle 12.png">
+    		
+    		<div class="home-item">
+    		</div>
+    		<img class="home-inner" alt="" src="Rectangle 16.png">
+    		
+    		<b class="plano-1">Plano 1</b>
+    		<div class="line-div">
+    		</div>
+    		<div class="servios-administrativos-e">Serviços administrativos e comerciais em geral ou somente Gestão de WhatsApp e agenda com até 5 contatos por dia.</div>
+    		<div class="home-child1">
+    		</div>
+    		<div class="valor">Valor</div>
+    		<div class="r69800">R$698,00</div>
+    		<div class="rectangle-div">
+    		</div>
+    		<img class="rectangle-icon" alt="" src="Rectangle 18.png">
+    		
+    		<b class="plano-2">Plano 2</b>
+    		<div class="home-child2">
+    		</div>
+    		<div class="servios-administrativos-e1">Serviços Administrativos e comerciais, ou atendimento ao WhatsApp e gestão de agenda até 10 contatos por dia.</div>
+    		<div class="home-child3">
+    		</div>
+    		<div class="valor1">Valor</div>
+    		<div class="r89800">R$898,00</div>
+    		<div class="home-child4">
+    		</div>
+    		<img class="home-child5" alt="" src="Rectangle 20.png">
+    		
+    		<b class="plano-3">Plano 3</b>
+    		<div class="home-child6">
+    		</div>
+    		<div class="gesto-de-whatsapp">Gestão de WhatsApp e agenda a partir de 20 contatos por dia, emissão de NFs e boletos.</div>
+    		<div class="home-child7">
+    		</div>
+    		<div class="valor2">Valor</div>
+    		<div class="r109800">R$1.098,00</div>
+    		<div class="home-child8">
+    		</div>
+    		<div class="component-13">
+      			<div class="sobre-ns">SOBRE NÓS</div>
+    		</div>
+    		<div class="component-14">
+      			<div class="sobre-ns">SERVIÇOS</div>
+    		</div>
+    		<div class="component-15">
+      			<div class="sobre-ns">PLANOS</div>
+    		</div>
+    		<div class="component-16">
+      			<div class="sobre-ns">CLIENTES</div>
+    		</div>
+    		<div class="component-17">
+      			<div class="sobre-ns">CONTATO</div>
+    		</div>
+    		<div class="component-11">
+      			<div class="component-11-child">
+      			</div>
+      			<div class="entrar">ENTRAR</div>
+    		</div>
+    		<div class="apresentao-comercial">
+      			<span>A</span>
+      			<span class="presentao">presentação </span>
+      			<span>C</span>
+      			<span class="presentao">omercial</span>
+    		</div>
+    		<div class="voc-no-precisa">Você não precisa dar conta de tudo! Estamos aqui para facilitar sua rotina e executar suas demandas.</div>
+    		<div class="component-26">
+      			<div class="component-26-child">
+      			</div>
+      			<div class="descubra-mais">Descubra mais</div>
+    		</div>
+    		<div class="component-29">
+      			<div class="component-29-child">
+      			</div>
+      			<div class="fale-conosco">Fale conosco</div>
+    		</div>
+    		<div class="home-child9">
+    		</div>
+    		<b class="servios-que-podemos-container">
+      			<span>Serviços </span>
+      			<span class="presentao">Que Podemos Ajudá-lo!</span>
+    		</b>
+    		<div class="home-child10">
+    		</div>
+    		<b class="lista-de-servios">LISTA DE SERVIÇOS</b>
+    		<div class="home-child11">
+    		</div>
+    		<div class="home-child12">
+    		</div>
+    		<div class="home-child13">
+    		</div>
+    		<div class="atendimento-ao-whatsapp">Atendimento ao WhatsApp personalizado com Scripts validados e gestão de agenda.</div>
+    		<div class="home-child14">
+    		</div>
+    		<div class="outros-servios-que">Outros serviços que o cliente entenda como relevante para delegar.</div>
+    		<div class="servios-administrativos-e2">Serviços Administrativos e comerciais Emissão de NFs, boletos, fluxo de caixa, cadastros, planilhas...</div>
+    		<img class="whatsapp-official-logo-png-dow-icon" alt="" src="whatsapp-official-logo-png-download 1.png">
+    		
+    		<img class="paper-pencil-icon-icons-1" alt="" src="paper-pencil_icon-icons 1.png">
+    		
+    		<img class="construction-project-plan-buil-icon" alt="" src="construction_project_plan_building_architect_design_develop-61_icon-icons 1.png">
+    		
+    		<div class="nosso-propsito">Nosso propósito é gerar resultados positivos e satisfatórios para os clientes, trazendo aumento de faturamento e clientes.</div>
+    		<div class="component-30">
+      			<div class="component-26-child">
+      			</div>
+      			<div class="descubra-mais">Descubra mais</div>
+    		</div>
+    		<div class="component-31">
+      			<div class="component-29-child">
+      			</div>
+      			<div class="fale-conosco">Fale conosco</div>
+    		</div>
+    		<div class="home-child15">
+    		</div>
+    		<div class="obtenha-uma-consulta">Obtenha uma consulta gratuita</div>
+    		<img class="captura-de-tela-2024-06-20-161" alt="" src="Captura de tela 2024-06-20 161500 2.png">
+    		
+    		<img class="captura-de-tela-2024-06-20-1611" alt="" src="Captura de tela 2024-06-20 161500 3.png">
+    		
+    		<div class="home-child16">
+    		</div>
+    		<div class="fazer-agendamento">Fazer Agendamento</div>
+    		<img class="line-icon" alt="" src="Line 8.svg">
+    		
+    		<div class="home-child17">
+    		</div>
+    		<div class="sobre-ns5">Sobre nós</div>
+    		<div class="aumentar-o-faturamento">Aumentar o faturamento dos nossos clientes, através do atendimento, conversão e gestão de agenda</div>
+    		<div class="otimizar-o-tempo">Otimizar o tempo dos clientes, sem que precisem se envolver em processos administrativos e comerciais</div>
+    		<div class="servios-com-eficincia">Serviços com eficiência e agilidade, atendimentos humanizados, rápidos, com excelência e objetivos para fechamentos.</div>
+    		<div class="ellipse-div">
+    		</div>
+    		<div class="home-child18">
+    		</div>
+    		<div class="home-child19">
+    		</div>
+    		<b class="nossos-objetivos-como-container">
+      			<span>Nossos </span>
+      			<span class="objetivos-como-empresa">objetivos como empresa!</span>
+    		</b>
+    		<div class="component-32">
+      			<div class="component-26-child">
+      			</div>
+      			<div class="descubra-mais">Descubra mais</div>
+    		</div>
+    		<div class="home-child20">
+    		</div>
+    		<div class="home-child21">
+    		</div>
+    		<div class="avaliaes-de-clientes-container">
+      			<span>Avaliações </span>
+      			<span class="presentao">de clientes</span>
+    		</div>
+    		<div class="home-child22">
+    		</div>
+    		<div class="contamos-com-uma">Contamos com uma equipe qualificada e focada em lhe trazer resultados.</div>
+    		<div class="div">100%</div>
+    		<div class="home-child23">
+    		</div>
+    		<div class="div1">100%</div>
+    		<div class="home-child24">
+    		</div>
+    		<div class="div2">100%</div>
+    		<div class="com-nosso-atendimento">Com nosso atendimento e gestão de agenda, você evita deixar seu cliente esperando retorno no WhatsApp, e ainda garante aumento de faturamento.</div>
+    		<div class="resolvemos-todas-as">resolvemos todas as demandas burocráticas da sua empresa.</div>
+    		<div class="home-child25">
+    		</div>
+    		<div class="home-child26">
+    		</div>
+    		<div class="home-child27">
+    		</div>
+    		<div class="home-child28">
+    		</div>
+    		<div class="home-child29">
+    		</div>
+    		<div class="home-child30">
+    		</div>
+    		<div class="home-child31">
+    		</div>
+    		<div class="home-child32">
+    		</div>
+    		<div class="home-child33">
+    		</div>
+    		<div class="home-child34">
+    		</div>
+    		<div class="home-child35">
+    		</div>
+    		<div class="home-child36">
+    		</div>
+    		<div class="home-child37">
+    		</div>
+    		<b class="porque-nos-contratar">Porque nos contratar</b>
+    		<div class="home-child38">
+    		</div>
+    		<div class="home-child39">
+    		</div>
+    		<div class="home-child40">
+    		</div>
+    		<div class="home-child41">
+    		</div>
+    		<img class="captura-de-tela-2024-06-20-153" alt="" src="Captura de tela 2024-06-20 153018 5.png">
+    		
+    		<div class="home-child42">
+    		</div>
+    		<div class="home-child43">
+    		</div>
+    		<div class="home-child44">
+    		</div>
+    		<div class="home-child45">
+    		</div>
+    		<div class="home-child46">
+    		</div>
+    		<div class="home-child47">
+    		</div>
+    		<div class="home-child48">
+    		</div>
+    		<div class="home-child49">
+    		</div>
+    		<img class="captura-de-tela-2024-06-20-1531" alt="" src="Captura de tela 2024-06-20 153000 1.png">
+    		
+    		<img class="captura-de-tela-2024-06-20-1532" alt="" src="Captura de tela 2024-06-20 153008 1.png">
+    		
+    		<div class="home-child50">
+    		</div>
+    		<div class="home-child51">
+    		</div>
+    		<div class="home-child52">
+    		</div>
+    		<div class="home-child53">
+    		</div>
+    		<div class="home-child54">
+    		</div>
+    		<div class="home-child55">
+    		</div>
+    		<div class="home-child56">
+    		</div>
+    		<b class="entre-em-contato">Entre em contato e trabalhe conosco!</b>
+    		<div class="home-child57">
+    		</div>
+    		<div class="nome">Nome</div>
+    		<div class="home-child58">
+    		</div>
+    		<div class="home-child59">
+    		</div>
+    		<div class="email">Email</div>
+    		<div class="telefone">Telefone</div>
+    		<div class="home-child60">
+    		</div>
+    		<b class="comear">Começar</b>
+    		<div class="home-child61">
+    		</div>
+    		<img class="pessoa-apontando-1-icon" alt="" src="pessoa_apontando 1.png">
+    		
+    		<b class="logo">LOGO</b>
+  	</div>
+  	
+  	<style>
+		.plano-diretor-da-gestao-condom-icon {
+  	position: absolute;
+  	top: 1636px;
+  	left: 83px;
+  	border-radius: 12px;
+  	width: 424px;
+  	height: 372px;
+  	object-fit: cover;
+}
+.shutterstock-372388117-1-icon {
+  	position: absolute;
+  	top: 1673px;
+  	left: 304px;
+  	border-radius: 6px;
+  	width: 416px;
+  	height: 368px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-06-19-222 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1440px;
+  	height: 555px;
+  	object-fit: cover;
+}
+.planos {
+  	position: absolute;
+  	top: 2831px;
+  	left: 616px;
+  	font-size: 50px;
+  	color: #000;
+}
+.home-child {
+  	position: absolute;
+  	top: 1814px;
+  	left: 164px;
+  	border-radius: 20px;
+  	width: 339px;
+  	height: 320px;
+  	object-fit: cover;
+}
+.home-item {
+  	position: absolute;
+  	top: 2986px;
+  	left: 65px;
+  	box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
+  	border-radius: 16px;
+  	background-color: #fff;
+  	width: 402px;
+  	height: 534px;
+}
+.home-inner {
+  	position: absolute;
+  	top: 3022px;
+  	left: 88px;
+  	border-radius: 13px;
+  	width: 356px;
+  	height: 94px;
+  	object-fit: cover;
+}
+.plano-1 {
+  	position: absolute;
+  	top: 3152px;
+  	left: 106px;
+  	font-size: 32px;
+  	font-family: 'Hind Vadodara';
+  	color: #000;
+}
+.line-div {
+  	position: absolute;
+  	top: 3213.5px;
+  	left: 105.5px;
+  	border-top: 1px solid #8e8e8e;
+  	box-sizing: border-box;
+  	width: 319px;
+  	height: 1px;
+}
+.servios-administrativos-e {
+  	position: absolute;
+  	top: 3236px;
+  	left: 107px;
+  	font-family: 'Hind Vadodara';
+  	color: #000;
+  	display: inline-block;
+  	width: 337px;
+  	height: 119px;
+}
+.home-child1 {
+  	position: absolute;
+  	top: 3383.5px;
+  	left: 105.5px;
+  	border-top: 1px solid #8e8e8e;
+  	box-sizing: border-box;
+  	width: 319px;
+  	height: 1px;
+}
+.valor {
+  	position: absolute;
+  	top: 3413px;
+  	left: 111px;
+  	font-family: 'Hind Vadodara';
+  	color: #4f4f4f;
+}
+.r69800 {
+  	position: absolute;
+  	top: 3443px;
+  	left: 115px;
+  	font-size: 21px;
+  	font-family: 'Hind Vadodara';
+  	color: #000;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 2986px;
+  	left: 519px;
+  	box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
+  	border-radius: 16px;
+  	background-color: #fff;
+  	width: 402px;
+  	height: 534px;
+}
+.rectangle-icon {
+  	position: absolute;
+  	top: 3022px;
+  	left: 542px;
+  	border-radius: 13px;
+  	width: 356px;
+  	height: 94px;
+  	object-fit: cover;
+}
+.plano-2 {
+  	position: absolute;
+  	top: 3152px;
+  	left: 560px;
+  	font-size: 32px;
+  	font-family: 'Hind Vadodara';
+  	color: #000;
+}
+.home-child2 {
+  	position: absolute;
+  	top: 3213.5px;
+  	left: 559.5px;
+  	border-top: 1px solid #8e8e8e;
+  	box-sizing: border-box;
+  	width: 319px;
+  	height: 1px;
+}
+.servios-administrativos-e1 {
+  	position: absolute;
+  	top: 3236px;
+  	left: 561px;
+  	font-family: 'Hind Vadodara';
+  	color: #000;
+  	display: inline-block;
+  	width: 337px;
+  	height: 119px;
+}
+.home-child3 {
+  	position: absolute;
+  	top: 3383.5px;
+  	left: 559.5px;
+  	border-top: 1px solid #8e8e8e;
+  	box-sizing: border-box;
+  	width: 319px;
+  	height: 1px;
+}
+.valor1 {
+  	position: absolute;
+  	top: 3413px;
+  	left: 565px;
+  	font-family: 'Hind Vadodara';
+  	color: #4f4f4f;
+}
+.r89800 {
+  	position: absolute;
+  	top: 3443px;
+  	left: 569px;
+  	font-size: 21px;
+  	font-family: 'Hind Vadodara';
+  	color: #000;
+}
+.home-child4 {
+  	position: absolute;
+  	top: 2986px;
+  	left: 973px;
+  	box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
+  	border-radius: 16px;
+  	background-color: #fff;
+  	width: 402px;
+  	height: 534px;
+}
+.home-child5 {
+  	position: absolute;
+  	top: 3022px;
+  	left: 996px;
+  	border-radius: 13px;
+  	width: 356px;
+  	height: 94px;
+  	object-fit: cover;
+}
+.plano-3 {
+  	position: absolute;
+  	top: 3152px;
+  	left: 1014px;
+  	font-size: 32px;
+  	font-family: 'Hind Vadodara';
+  	color: #000;
+}
+.home-child6 {
+  	position: absolute;
+  	top: 3213.5px;
+  	left: 1013.5px;
+  	border-top: 1px solid #8e8e8e;
+  	box-sizing: border-box;
+  	width: 319px;
+  	height: 1px;
+}
+.gesto-de-whatsapp {
+  	position: absolute;
+  	top: 3236px;
+  	left: 1015px;
+  	font-family: 'Hind Vadodara';
+  	color: #000;
+  	display: inline-block;
+  	width: 337px;
+  	height: 119px;
+}
+.home-child7 {
+  	position: absolute;
+  	top: 3383.5px;
+  	left: 1013.5px;
+  	border-top: 1px solid #8e8e8e;
+  	box-sizing: border-box;
+  	width: 319px;
+  	height: 1px;
+}
+.valor2 {
+  	position: absolute;
+  	top: 3413px;
+  	left: 1019px;
+  	font-family: 'Hind Vadodara';
+  	color: #4f4f4f;
+}
+.r109800 {
+  	position: absolute;
+  	top: 3443px;
+  	left: 1023px;
+  	font-size: 21px;
+  	font-family: 'Hind Vadodara';
+  	color: #000;
+}
+.home-child8 {
+  	position: absolute;
+  	top: 0px;
+  	left: -1px;
+  	background-color: rgba(0, 0, 0, 0.3);
+  	width: 1440px;
+  	height: 90px;
+}
+.sobre-ns {
+  	position: absolute;
+  	top: 0%;
+  	left: 0%;
+}
+.component-13 {
+  	position: absolute;
+  	top: 35px;
+  	left: 473px;
+  	width: 103px;
+  	height: 19px;
+  	font-size: 16px;
+}
+.component-14 {
+  	position: absolute;
+  	top: 35px;
+  	left: 586px;
+  	width: 76px;
+  	height: 15px;
+  	font-size: 16px;
+}
+.component-15 {
+  	position: absolute;
+  	top: 35px;
+  	left: 692px;
+  	width: 62px;
+  	height: 20px;
+  	font-size: 16px;
+}
+.component-16 {
+  	position: absolute;
+  	top: 36px;
+  	left: 784px;
+  	width: 82px;
+  	height: 17px;
+  	font-size: 16px;
+}
+.component-17 {
+  	position: absolute;
+  	top: 36px;
+  	left: 896px;
+  	width: 71px;
+  	height: 17px;
+  	font-size: 16px;
+}
+.component-11-child {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	border-radius: 14px;
+  	background-color: #0e4271;
+}
+.entrar {
+  	position: absolute;
+  	height: 38.25%;
+  	width: 57.98%;
+  	top: 29.79%;
+  	left: 21.01%;
+  	font-weight: 500;
+  	display: inline-block;
+}
+.component-11 {
+  	position: absolute;
+  	top: 25px;
+  	left: 1287px;
+  	width: 114px;
+  	height: 40px;
+  	font-size: 16px;
+}
+.presentao {
+  	color: #fff;
+}
+.apresentao-comercial {
+  	position: absolute;
+  	top: 212px;
+  	left: 316px;
+  	font-size: 64px;
+  	font-weight: 900;
+  	display: inline-block;
+  	width: 808px;
+  	height: 62px;
+  	color: #0e4271;
+}
+.voc-no-precisa {
+  	position: absolute;
+  	top: 318px;
+  	left: 354px;
+  	text-align: center;
+  	display: inline-block;
+  	width: 730px;
+  	height: 136px;
+}
+.component-26-child {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	border-radius: 12px;
+  	background-color: #0e4271;
+}
+.descubra-mais {
+  	position: absolute;
+  	height: 43.9%;
+  	width: 75.16%;
+  	top: 26.83%;
+  	left: 12.42%;
+  	font-weight: 500;
+  	display: inline-block;
+}
+.component-26 {
+  	position: absolute;
+  	top: 434px;
+  	left: 555px;
+  	width: 153px;
+  	height: 41px;
+  	font-size: 16px;
+}
+.component-29-child {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	border-radius: 12px;
+  	background-color: #fff;
+}
+.fale-conosco {
+  	position: absolute;
+  	height: 43.9%;
+  	width: 68.63%;
+  	top: 26.83%;
+  	left: 15.69%;
+  	font-weight: 500;
+  	display: inline-block;
+}
+.component-29 {
+  	position: absolute;
+  	top: 434px;
+  	left: 741px;
+  	width: 153px;
+  	height: 41px;
+  	font-size: 16px;
+  	color: #000;
+}
+.home-child9 {
+  	position: absolute;
+  	top: 555px;
+  	left: 0px;
+  	background-color: #1e1e1e;
+  	width: 1440px;
+  	height: 831px;
+}
+.servios-que-podemos-container {
+  	position: absolute;
+  	top: 696px;
+  	left: 86px;
+  	font-size: 48px;
+  	display: inline-block;
+  	width: 467px;
+  	height: 135px;
+  	color: #0086ff;
+}
+.home-child10 {
+  	position: absolute;
+  	top: 634px;
+  	left: 86px;
+  	border-radius: 13px;
+  	background-color: #fff;
+  	width: 198px;
+  	height: 37px;
+}
+.lista-de-servios {
+  	position: absolute;
+  	top: 645px;
+  	left: 119px;
+  	font-size: 13px;
+  	display: inline-block;
+  	color: #000;
+  	width: 132px;
+  	height: 15px;
+}
+.home-child11 {
+  	position: absolute;
+  	top: 910px;
+  	left: 1007px;
+  	box-shadow: 0px 4px 13.2px rgba(79, 79, 79, 0.5);
+  	border-radius: 22px;
+  	background-color: #000;
+  	width: 347px;
+  	height: 326px;
+}
+.home-child12 {
+  	position: absolute;
+  	top: 910px;
+  	left: 544px;
+  	box-shadow: 0px 4px 13.2px rgba(79, 79, 79, 0.5);
+  	border-radius: 22px;
+  	background-color: #000;
+  	width: 352px;
+  	height: 326px;
+}
+.home-child13 {
+  	position: absolute;
+  	top: 910px;
+  	left: 86px;
+  	box-shadow: 0px 4px 13.2px rgba(79, 79, 79, 0.5);
+  	border-radius: 22px;
+  	background-color: #000;
+  	width: 347px;
+  	height: 326px;
+}
+.atendimento-ao-whatsapp {
+  	position: absolute;
+  	top: 1054px;
+  	left: 580px;
+  	font-weight: 500;
+  	text-align: center;
+  	display: inline-block;
+  	width: 272px;
+  	height: 95px;
+}
+.home-child14 {
+  	position: absolute;
+  	top: 680.5px;
+  	left: 672.5px;
+  	border-right: 3px solid #fff;
+  	box-sizing: border-box;
+  	width: 3px;
+  	height: 165px;
+}
+.outros-servios-que {
+  	position: absolute;
+  	top: 1065px;
+  	left: 1058px;
+  	font-size: 24px;
+  	font-family: 'Josefin Sans';
+  	text-align: center;
+  	display: inline-block;
+  	width: 245px;
+  	height: 72px;
+}
+.servios-administrativos-e2 {
+  	position: absolute;
+  	top: 1059px;
+  	left: 114px;
+  	font-size: 24px;
+  	font-family: 'Josefin Sans';
+  	text-align: center;
+  	display: inline-block;
+  	width: 288px;
+  	height: 104px;
+}
+.whatsapp-official-logo-png-dow-icon {
+  	position: absolute;
+  	top: 955px;
+  	left: 674px;
+  	width: 92px;
+  	height: 74px;
+  	object-fit: cover;
+}
+.paper-pencil-icon-icons-1 {
+  	position: absolute;
+  	top: 946px;
+  	left: 212px;
+  	width: 91px;
+  	height: 91px;
+  	object-fit: cover;
+}
+.construction-project-plan-buil-icon {
+  	position: absolute;
+  	top: 955px;
+  	left: 1125px;
+  	width: 112px;
+  	height: 82px;
+  	object-fit: cover;
+}
+.nosso-propsito {
+  	position: absolute;
+  	top: 705px;
+  	left: 735px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 619px;
+  	height: 59px;
+}
+.component-30 {
+  	position: absolute;
+  	top: 779px;
+  	left: 870px;
+  	width: 153px;
+  	height: 41px;
+  	font-size: 16px;
+}
+.component-31 {
+  	position: absolute;
+  	top: 779px;
+  	left: 1058px;
+  	width: 153px;
+  	height: 41px;
+  	font-size: 16px;
+  	color: #000;
+}
+.home-child15 {
+  	position: absolute;
+  	top: 1277px;
+  	left: 330px;
+  	border-radius: 20px;
+  	background-color: #093064;
+  	width: 822px;
+  	height: 218px;
+}
+.obtenha-uma-consulta {
+  	position: absolute;
+  	top: 1346px;
+  	left: 489px;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 316px;
+}
+.captura-de-tela-2024-06-20-161 {
+  	position: absolute;
+  	top: 1370px;
+  	left: 489px;
+  	width: 291px;
+  	height: 86px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-06-20-1611 {
+  	position: absolute;
+  	top: 1333px;
+  	left: 349px;
+  	width: 140px;
+  	height: 105px;
+  	object-fit: cover;
+}
+.home-child16 {
+  	position: absolute;
+  	top: 1362px;
+  	left: 882px;
+  	border-radius: 19px;
+  	background-color: #fff;
+  	width: 206px;
+  	height: 46px;
+}
+.fazer-agendamento {
+  	position: absolute;
+  	top: 1375px;
+  	left: 906px;
+  	font-size: 16px;
+  	font-weight: 600;
+  	color: rgba(0, 0, 0, 0.86);
+}
+.line-icon {
+  	position: absolute;
+  	top: 1335px;
+  	left: 829px;
+  	width: 0.4px;
+  	height: 104px;
+  	object-fit: contain;
+}
+.home-child17 {
+  	position: absolute;
+  	top: 1599px;
+  	left: 779px;
+  	box-shadow: 0px 4px 2.6px rgba(0, 0, 0, 0.25);
+  	border-radius: 20px;
+  	background-color: #fff;
+  	width: 143px;
+  	height: 53px;
+}
+.sobre-ns5 {
+  	position: absolute;
+  	top: 1614px;
+  	left: 802px;
+  	font-weight: 500;
+  	color: #000;
+}
+.aumentar-o-faturamento {
+  	position: absolute;
+  	top: 1812px;
+  	left: 843px;
+  	font-weight: 600;
+  	color: #000;
+  	display: inline-block;
+  	width: 553px;
+  	height: 47px;
+}
+.otimizar-o-tempo {
+  	position: absolute;
+  	top: 1913px;
+  	left: 843px;
+  	font-weight: 600;
+  	color: #000;
+  	display: inline-block;
+  	width: 553px;
+  	height: 57px;
+}
+.servios-com-eficincia {
+  	position: absolute;
+  	top: 2004px;
+  	left: 843px;
+  	font-weight: 600;
+  	color: #000;
+  	display: inline-block;
+  	width: 553px;
+  	height: 71px;
+}
+.ellipse-div {
+  	position: absolute;
+  	top: 1812px;
+  	left: 785px;
+  	border-radius: 50%;
+  	background-color: #093064;
+  	width: 34px;
+  	height: 32px;
+}
+.home-child18 {
+  	position: absolute;
+  	top: 1913px;
+  	left: 785px;
+  	border-radius: 50%;
+  	background-color: #093064;
+  	width: 34px;
+  	height: 32px;
+}
+.home-child19 {
+  	position: absolute;
+  	top: 2004px;
+  	left: 785px;
+  	border-radius: 50%;
+  	background-color: #093064;
+  	width: 34px;
+  	height: 32px;
+}
+.objetivos-como-empresa {
+  	color: #000;
+}
+.nossos-objetivos-como-container {
+  	position: absolute;
+  	top: 1673px;
+  	left: 829px;
+  	font-size: 40px;
+  	display: inline-block;
+  	width: 462px;
+  	height: 95px;
+  	color: #0e4271;
+}
+.component-32 {
+  	position: absolute;
+  	top: 2129px;
+  	left: 785px;
+  	width: 153px;
+  	height: 41px;
+  	font-size: 16px;
+}
+.home-child20 {
+  	position: absolute;
+  	top: 2277px;
+  	left: -1px;
+  	background-color: #1e1e1e;
+  	width: 1440px;
+  	height: 480px;
+}
+.home-child21 {
+  	position: absolute;
+  	top: 3579px;
+  	left: -1px;
+  	background-color: #1e1e1e;
+  	width: 1440px;
+  	height: 597px;
+}
+.avaliaes-de-clientes-container {
+  	position: absolute;
+  	top: 3667px;
+  	left: 65px;
+  	font-size: 50px;
+  	font-weight: 800;
+  	display: inline-block;
+  	width: 561px;
+  	height: 60px;
+  	color: #0e4271;
+}
+.home-child22 {
+  	position: absolute;
+  	top: 2373px;
+  	left: 587px;
+  	border-radius: 50%;
+  	background-color: #1e1e1e;
+  	border: 3px solid #fff;
+  	box-sizing: border-box;
+  	width: 156px;
+  	height: 144px;
+}
+.contamos-com-uma {
+  	position: absolute;
+  	top: 2557px;
+  	left: 532px;
+  	font-weight: 500;
+  	text-align: center;
+  	display: inline-block;
+  	width: 273px;
+  	height: 71px;
+  	opacity: 0.33;
+}
+.div {
+  	position: absolute;
+  	top: 2428px;
+  	left: 628px;
+  	font-size: 32px;
+  	font-weight: 500;
+  	text-align: center;
+  	display: inline-block;
+  	width: 83px;
+  	height: 33px;
+}
+.home-child23 {
+  	position: absolute;
+  	top: 2373px;
+  	left: 895px;
+  	border-radius: 50%;
+  	background-color: #1e1e1e;
+  	border: 3px solid #fff;
+  	box-sizing: border-box;
+  	width: 156px;
+  	height: 144px;
+}
+.div1 {
+  	position: absolute;
+  	top: 2428px;
+  	left: 931px;
+  	font-size: 32px;
+  	font-weight: 500;
+  	text-align: center;
+  	display: inline-block;
+  	width: 83px;
+  	height: 33px;
+}
+.home-child24 {
+  	position: absolute;
+  	top: 2373px;
+  	left: 1169px;
+  	border-radius: 50%;
+  	background-color: #1e1e1e;
+  	border: 3px solid #fff;
+  	box-sizing: border-box;
+  	width: 156px;
+  	height: 144px;
+}
+.div2 {
+  	position: absolute;
+  	top: 2430px;
+  	left: 1205px;
+  	font-size: 32px;
+  	font-weight: 500;
+  	text-align: center;
+  	display: inline-block;
+  	width: 83px;
+  	height: 33px;
+}
+.com-nosso-atendimento {
+  	position: absolute;
+  	top: 2537px;
+  	left: 832px;
+  	font-weight: 500;
+  	text-align: center;
+  	display: inline-block;
+  	width: 282px;
+  	height: 143px;
+  	opacity: 0.33;
+}
+.resolvemos-todas-as {
+  	position: absolute;
+  	top: 2537px;
+  	left: 1134px;
+  	font-weight: 500;
+  	text-align: center;
+  	display: inline-block;
+  	width: 246px;
+  	height: 63px;
+  	opacity: 0.33;
+}
+.home-child25 {
+  	position: absolute;
+  	top: 2348.5px;
+  	left: 127.5px;
+  	border-right: 1px solid rgba(255, 255, 255, 0.43);
+  	box-sizing: border-box;
+  	width: 1px;
+  	height: 337px;
+}
+.home-child26 {
+  	position: absolute;
+  	top: 2348.5px;
+  	left: 193.5px;
+  	border-right: 1px solid rgba(255, 255, 255, 0.43);
+  	box-sizing: border-box;
+  	width: 1px;
+  	height: 337px;
+}
+.home-child27 {
+  	position: absolute;
+  	top: 2348.5px;
+  	left: 254.5px;
+  	border-right: 1px solid rgba(255, 255, 255, 0.43);
+  	box-sizing: border-box;
+  	width: 1px;
+  	height: 337px;
+}
+.home-child28 {
+  	position: absolute;
+  	top: 2348.5px;
+  	left: 315.5px;
+  	border-right: 1px solid rgba(255, 255, 255, 0.43);
+  	box-sizing: border-box;
+  	width: 1px;
+  	height: 337px;
+}
+.home-child29 {
+  	position: absolute;
+  	top: 2348.5px;
+  	left: 371.5px;
+  	border-right: 1px solid rgba(255, 255, 255, 0.43);
+  	box-sizing: border-box;
+  	width: 1px;
+  	height: 337px;
+}
+.home-child30 {
+  	position: absolute;
+  	top: 2348.5px;
+  	left: 432.5px;
+  	border-right: 1px solid rgba(255, 255, 255, 0.43);
+  	box-sizing: border-box;
+  	width: 1px;
+  	height: 337px;
+}
+.home-child31 {
+  	position: absolute;
+  	top: 2669.5px;
+  	left: 62.5px;
+  	border-top: 1px solid rgba(255, 255, 255, 0.43);
+  	box-sizing: border-box;
+  	width: 420px;
+  	height: 1px;
+}
+.home-child32 {
+  	position: absolute;
+  	top: 2603.5px;
+  	left: 63.5px;
+  	border-top: 1px solid rgba(255, 255, 255, 0.43);
+  	box-sizing: border-box;
+  	width: 419px;
+  	height: 1px;
+}
+.home-child33 {
+  	position: absolute;
+  	top: 2542.5px;
+  	left: 64.5px;
+  	border-top: 1px solid rgba(255, 255, 255, 0.43);
+  	box-sizing: border-box;
+  	width: 422px;
+  	height: 1px;
+}
+.home-child34 {
+  	position: absolute;
+  	top: 2481.5px;
+  	left: 65.5px;
+  	border-top: 1px solid rgba(255, 255, 255, 0.43);
+  	box-sizing: border-box;
+  	width: 421px;
+  	height: 1px;
+}
+.home-child35 {
+  	position: absolute;
+  	top: 2424.5px;
+  	left: 68.5px;
+  	border-top: 1px solid rgba(255, 255, 255, 0.43);
+  	box-sizing: border-box;
+  	width: 419px;
+  	height: 1px;
+}
+.home-child36 {
+  	position: absolute;
+  	top: 2363.5px;
+  	left: 68.5px;
+  	border-top: 1px solid rgba(255, 255, 255, 0.43);
+  	box-sizing: border-box;
+  	width: 420px;
+  	height: 1px;
+}
+.home-child37 {
+  	position: absolute;
+  	top: 2337px;
+  	left: 96px;
+  	border-radius: 50%;
+  	background-color: rgba(14, 66, 113, 0.91);
+  	border: 1px solid #fff;
+  	box-sizing: border-box;
+  	width: 377px;
+  	height: 359px;
+}
+.porque-nos-contratar {
+  	position: absolute;
+  	top: 2469px;
+  	left: 157px;
+  	font-size: 40px;
+  	display: inline-block;
+  	text-align: center;
+  	width: 263px;
+}
+.home-child38 {
+  	position: absolute;
+  	top: 3796px;
+  	left: 102px;
+  	box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);
+  	border-radius: 13px;
+  	background-color: #fff;
+  	width: 374px;
+  	height: 248px;
+}
+.home-child39 {
+  	position: absolute;
+  	top: 3993px;
+  	left: 152px;
+  	background-color: #d9d9d9;
+  	width: 148px;
+  	height: 13px;
+}
+.home-child40 {
+  	position: absolute;
+  	top: 3973.5px;
+  	left: 151.5px;
+  	border-top: 1px solid #4f4f4f;
+  	box-sizing: border-box;
+  	width: 276px;
+  	height: 1px;
+}
+.home-child41 {
+  	position: absolute;
+  	top: 3796px;
+  	left: 527px;
+  	box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);
+  	border-radius: 13px;
+  	background-color: #fff;
+  	width: 375px;
+  	height: 248px;
+}
+.captura-de-tela-2024-06-20-153 {
+  	position: absolute;
+  	top: 3810px;
+  	left: 678px;
+  	width: 207px;
+  	height: 139px;
+  	object-fit: cover;
+}
+.home-child42 {
+  	position: absolute;
+  	top: 3993px;
+  	left: 577px;
+  	background-color: #d9d9d9;
+  	width: 148px;
+  	height: 13px;
+}
+.home-child43 {
+  	position: absolute;
+  	top: 4016px;
+  	left: 577px;
+  	background-color: #d9d9d9;
+  	width: 47px;
+  	height: 10px;
+}
+.home-child44 {
+  	position: absolute;
+  	top: 3973.5px;
+  	left: 576.5px;
+  	border-top: 1px solid #4f4f4f;
+  	box-sizing: border-box;
+  	width: 276px;
+  	height: 1px;
+}
+.home-child45 {
+  	position: absolute;
+  	top: 3796px;
+  	left: 958px;
+  	box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);
+  	border-radius: 13px;
+  	background-color: #fff;
+  	width: 374px;
+  	height: 248px;
+}
+.home-child46 {
+  	position: absolute;
+  	top: 3812px;
+  	left: 984px;
+  	border-radius: 50%;
+  	background-color: #4f4f4f;
+  	width: 52px;
+  	height: 50px;
+}
+.home-child47 {
+  	position: absolute;
+  	top: 3993px;
+  	left: 1007px;
+  	background-color: #d9d9d9;
+  	width: 149px;
+  	height: 13px;
+}
+.home-child48 {
+  	position: absolute;
+  	top: 4016px;
+  	left: 1007px;
+  	background-color: #d9d9d9;
+  	width: 47px;
+  	height: 10px;
+}
+.home-child49 {
+  	position: absolute;
+  	top: 3973.5px;
+  	left: 1006.5px;
+  	border-top: 1px solid #4f4f4f;
+  	box-sizing: border-box;
+  	width: 276px;
+  	height: 1px;
+}
+.captura-de-tela-2024-06-20-1531 {
+  	position: absolute;
+  	top: 3810px;
+  	left: 277px;
+  	width: 154px;
+  	height: 152px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-06-20-1532 {
+  	position: absolute;
+  	top: 3810px;
+  	left: 1109px;
+  	width: 199px;
+  	height: 144px;
+  	object-fit: cover;
+}
+.home-child50 {
+  	position: absolute;
+  	top: 3812px;
+  	left: 549px;
+  	border-radius: 50%;
+  	background-color: #4f4f4f;
+  	width: 52px;
+  	height: 50px;
+}
+.home-child51 {
+  	position: absolute;
+  	top: 3815px;
+  	left: 115px;
+  	border-radius: 50%;
+  	background-color: #4f4f4f;
+  	width: 52px;
+  	height: 50px;
+}
+.home-child52 {
+  	position: absolute;
+  	top: 4016px;
+  	left: 152px;
+  	background-color: #d9d9d9;
+  	width: 47px;
+  	height: 10px;
+}
+.home-child53 {
+  	position: absolute;
+  	top: 4120px;
+  	left: 710px;
+  	border-radius: 50%;
+  	background-color: #d9d9d9;
+  	width: 20px;
+  	height: 18px;
+}
+.home-child54 {
+  	position: absolute;
+  	top: 4120px;
+  	left: 667px;
+  	border-radius: 50%;
+  	background-color: #d9d9d9;
+  	width: 20px;
+  	height: 18px;
+}
+.home-child55 {
+  	position: absolute;
+  	top: 4120px;
+  	left: 753px;
+  	border-radius: 50%;
+  	background-color: #d9d9d9;
+  	width: 20px;
+  	height: 18px;
+}
+.home-child56 {
+  	position: absolute;
+  	top: 4228px;
+  	left: 798px;
+  	box-shadow: 0px 4px 13.2px 6px rgba(0, 0, 0, 0.25);
+  	border-radius: 18px;
+  	background-color: #fff;
+  	width: 512px;
+  	height: 638px;
+}
+.entre-em-contato {
+  	position: absolute;
+  	top: 4262px;
+  	left: 889px;
+  	font-size: 32px;
+  	display: inline-block;
+  	color: #000;
+  	text-align: center;
+  	width: 329px;
+}
+.home-child57 {
+  	position: absolute;
+  	top: 4379px;
+  	left: 866px;
+  	border-radius: 23px;
+  	background-color: #fff;
+  	border: 1px solid #8e8e8e;
+  	box-sizing: border-box;
+  	width: 375px;
+  	height: 78px;
+}
+.nome {
+  	position: absolute;
+  	top: 4406px;
+  	left: 884px;
+  	font-weight: 200;
+  	color: #000;
+  	text-align: center;
+}
+.home-child58 {
+  	position: absolute;
+  	top: 4508px;
+  	left: 866px;
+  	border-radius: 23px;
+  	background-color: #fff;
+  	border: 1px solid #8e8e8e;
+  	box-sizing: border-box;
+  	width: 375px;
+  	height: 78px;
+}
+.home-child59 {
+  	position: absolute;
+  	top: 4637px;
+  	left: 866px;
+  	border-radius: 23px;
+  	background-color: #fff;
+  	border: 1px solid #8e8e8e;
+  	box-sizing: border-box;
+  	width: 375px;
+  	height: 78px;
+}
+.email {
+  	position: absolute;
+  	top: 4536px;
+  	left: 879px;
+  	font-weight: 200;
+  	color: #000;
+  	text-align: center;
+  	display: inline-block;
+  	width: 66px;
+  	height: 21px;
+}
+.telefone {
+  	position: absolute;
+  	top: 4664px;
+  	left: 884px;
+  	font-weight: 200;
+  	color: #000;
+  	text-align: center;
+  	display: inline-block;
+  	width: 81px;
+  	height: 23px;
+}
+.home-child60 {
+  	position: absolute;
+  	top: 4754px;
+  	left: 920px;
+  	border-radius: 14px;
+  	background-color: #ff0000;
+  	width: 268px;
+  	height: 68px;
+}
+.comear {
+  	position: absolute;
+  	top: 4773px;
+  	left: 1000px;
+  	font-size: 24px;
+  	text-align: center;
+}
+.home-child61 {
+  	position: absolute;
+  	top: 4194px;
+  	left: -175px;
+  	border-radius: 50%;
+  	background-color: rgba(14, 66, 113, 0.8);
+  	width: 905px;
+  	height: 922px;
+}
+.pessoa-apontando-1-icon {
+  	position: absolute;
+  	top: 4214px;
+  	left: -26px;
+  	width: 693px;
+  	height: 727px;
+  	object-fit: cover;
+}
+.logo {
+  	position: absolute;
+  	top: 30px;
+  	left: 33px;
+  	font-size: 24px;
+  	text-align: center;
+}
+.home {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 4941px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 20px;
+  	color: #fff;
+  	font-family: Inter;
+}
+
+
+body {
+  	margin: 0;
+  	line-height: normal;
+}
+
+
+	</style>
+  	
+  	
+</body>
+</html>
